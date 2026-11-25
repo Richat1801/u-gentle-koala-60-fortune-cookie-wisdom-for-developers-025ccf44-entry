@@ -72,7 +72,9 @@ const BANK: Candidate[] = [
     twist: 7,
   },
   {
-    text: 'The deploy you fear most is the one your future self will thank you for testing twice.',
+    // Revised: "dread" is the tired engineer's word for a risky deploy,
+    // and "twice" now echoes the double-check the line recommends.
+    text: 'The deploy you dread most is the one your future self will thank you for testing twice.',
     fortune: 8,
     truth: 7,
     fresh: 6,
